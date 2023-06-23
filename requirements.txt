@@ -1,1 +1,9 @@
 kaleido
+blosc2
+notebook
+ipywidgets
+matplotlib
+plotly
+numpy
+zarr
+pandas
